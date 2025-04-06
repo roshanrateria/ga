@@ -70,7 +70,3 @@ A simple sum-of-squares is used for illustration. This can be extended to more b
 
 **Roshan Rateria**  
 _Exploring the intersection of bioinformatics & computation 🤖🧬_
-
----
-
-Let me know if you'd like a version with screenshots, links, or anything else!
